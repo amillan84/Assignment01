@@ -1,3 +1,9 @@
+/*
+App Name: My First Assignment
+Author: Aida Millan~Rocha
+Date: 02/21/21
+*/ 
+
 //Step 1 Converting to camelCase
 //let someMonth;
 //theMonth = function(){};
